@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_custom_zacko\structures\corrugated_metalfence/fence01_map"
+	"$bumpmap" "models\props_custom_zacko\structures\corrugated_metalfence/fence01_map_normal"
+	"$bumpscale" "1.1"
+	"$nocull" "1"
+}

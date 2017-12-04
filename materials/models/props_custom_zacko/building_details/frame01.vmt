@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_custom_zacko\building_details/frame01"
+	"$bumpmap" "models\props_custom_zacko\building_details/frame01_n"
+	"$bumpscale" "1.1"
+}
