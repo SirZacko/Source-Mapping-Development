@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_custom_zacko\electronics\heater/translucent_map"
+	"$translucent" "1"
+}
